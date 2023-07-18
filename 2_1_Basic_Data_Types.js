@@ -1,2 +1,2 @@
 1 + 2.5
-"hello"
+"hello" + "my name is hg"
